@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticeGuide1</string>
+    <string-array name="characters">
+        <item>Mario</item>
+        <item>Luigi</item>
+        <item>Peach</item>
+        <item>Bowser</item>
+    </string-array>
+</resources>
